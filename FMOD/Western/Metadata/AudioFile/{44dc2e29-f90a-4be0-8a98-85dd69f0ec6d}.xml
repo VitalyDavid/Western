@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{44dc2e29-f90a-4be0-8a98-85dd69f0ec6d}">
+		<property name="assetPath">
+			<value>amb_desert_animals_eagle_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.63201814058956918</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3de38e6f-da69-451e-89a5-84bff040cc47}</destination>
+		</relationship>
+	</object>
+</objects>

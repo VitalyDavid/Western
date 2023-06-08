@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{0b1af7d7-b764-4fd1-90e0-8bc45fde281f}">
+		<property name="name">
+			<value>LocmotionType</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a1bea2a5-9559-4c2a-aa12-2134e92bd91a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{10b843bc-6427-4892-9f57-2e5f92680ad9}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{10b843bc-6427-4892-9f57-2e5f92680ad9}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

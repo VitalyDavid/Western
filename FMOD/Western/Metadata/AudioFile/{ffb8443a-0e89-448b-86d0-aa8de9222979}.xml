@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ffb8443a-0e89-448b-86d0-aa8de9222979}">
+		<property name="assetPath">
+			<value>pc_loc_crouch_sand_04.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.82047619047619047</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3de38e6f-da69-451e-89a5-84bff040cc47}</destination>
+		</relationship>
+	</object>
+</objects>

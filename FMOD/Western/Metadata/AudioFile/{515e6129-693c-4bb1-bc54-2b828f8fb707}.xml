@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{515e6129-693c-4bb1-bc54-2b828f8fb707}">
+		<property name="assetPath">
+			<value>amb_town_wind_crows_08.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.4068253968253968</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3de38e6f-da69-451e-89a5-84bff040cc47}</destination>
+		</relationship>
+	</object>
+</objects>

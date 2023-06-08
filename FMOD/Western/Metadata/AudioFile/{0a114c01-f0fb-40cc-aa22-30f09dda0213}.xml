@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0a114c01-f0fb-40cc-aa22-30f09dda0213}">
+		<property name="assetPath">
+			<value>Animals, Horse, Pass By, Gallop, Wet Grass, Windy 01 SND46822.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>13.835375000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3de38e6f-da69-451e-89a5-84bff040cc47}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{6a3dd87c-c8cf-4015-b5de-29c10c2a8f1b}">
+		<property name="name">
+			<value>OutdoorAmb</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a1bea2a5-9559-4c2a-aa12-2134e92bd91a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{61b63c6e-bd69-41c8-84de-29b0a5e22936}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{61b63c6e-bd69-41c8-84de-29b0a5e22936}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.19999998807907104</value>
+		</property>
+	</object>
+</objects>

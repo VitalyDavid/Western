@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{3188b054-c23e-436b-a640-8f52a4311149}">
+		<property name="name">
+			<value>RoomSwitch</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a1bea2a5-9559-4c2a-aa12-2134e92bd91a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{245e68ba-d4f5-4a61-afdc-888cd3513b93}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{245e68ba-d4f5-4a61-afdc-888cd3513b93}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{fb9bba5c-0bc7-4d99-b832-83eddcb67a84}">
+		<property name="name">
+			<value>CameraHeight</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a1bea2a5-9559-4c2a-aa12-2134e92bd91a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{413e24d6-4913-43fa-a205-77be366f04b1}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{413e24d6-4913-43fa-a205-77be366f04b1}">
+		<property name="minimum">
+			<value>0.59999999999999998</value>
+		</property>
+		<property name="maximum">
+			<value>40</value>
+		</property>
+		<property name="initialValue">
+			<value>0.59999999999999998</value>
+		</property>
+		<property name="seekSpeed">
+			<value>7</value>
+		</property>
+	</object>
+</objects>
